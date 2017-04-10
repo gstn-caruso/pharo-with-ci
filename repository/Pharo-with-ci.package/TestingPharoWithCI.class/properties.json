@@ -1,0 +1,14 @@
+{
+	"category" : "Pharo-with-ci",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestingPharoWithCI",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
