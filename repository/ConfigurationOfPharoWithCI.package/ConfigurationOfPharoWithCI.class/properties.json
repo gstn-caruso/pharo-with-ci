@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfPharoWithCI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfPharoWithCI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
