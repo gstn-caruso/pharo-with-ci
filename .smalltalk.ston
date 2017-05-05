@@ -1,9 +1,18 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'Pharo-with-ci',
-      #directory : 'repository',
-      #platforms : [ #pharo ]
+      #configuration : 'Probando',
+      #directory : '/',
+      #platforms : [ #pharo ],
+      #version : '0.1'
     }
-  ]
+  ],
+  #testing : {
+    #include : {
+      #packages : ['probando']
+    },
+     #coverage : {
+      #packages : ['probando']
+    }
+  }
 }
