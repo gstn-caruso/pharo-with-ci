@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfProbando",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfProbando",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

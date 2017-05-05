@@ -1,0 +1,14 @@
+{
+	"category" : "probando",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ATestClass",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
